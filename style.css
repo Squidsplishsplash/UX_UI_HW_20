@@ -1,0 +1,51 @@
+
+.card-container {
+    display: flex;
+}
+
+.carousel {
+    max-width: 1000px;
+}
+
+.card {
+    width: 500px;
+}
+
+.text-box {
+    padding: 25px;
+    max-width: 1000px;
+}
+.heading-box {
+    padding: 50px;
+}
+
+.solo-image {
+    max-width: 1000px;
+    padding: 50px;
+}
+
+.logo {
+    width: 50px;
+}
+/* 
+.mockup-container {
+    display: flex;
+} */
+.mockup {
+    max-width: 200px;
+    margin: 20px;
+    Border: 5px black solid;
+}
+
+.jumboBackground {
+    background-image: url(/images/BANNER.svg);
+}
+
+
+.centerPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Optional, ensures vertical centering */
+  }
